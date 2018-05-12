@@ -1,197 +1,60 @@
 #EXTM3U
-
-#PLAYLISTV: pltv-logo="https://i.imgur.com/mWyl05e.png" pltv-name="DM IPTV - TV VIP" pltv-description="LISTA DE TV, FILMES, SERIES, ANIMES, DESENHOS E VARIEDADES, ÚLTIMA ATUALIZAÇÃO: 23/01/2018" pltv-cover="https://i.imgur.com/UDABYDR.png" pltv-author="Diego Monte" pltv-site="http://dm-ip.tv" pltv-email="d.h.m@hotmail.com" pltv-phone="(19)99745-0947"
-
-#EXTINF:-1,STUDIO UNIVERSAL
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/174.m3u8?DMIPTV
-#EXTINF:-1,CLASSIQUE TV
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/216.m3u8?DMIPTV
-#EXTINF:-1,TV BRASIL
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/216.m3u8?DMIPTV
-#EXTINF:-1,MAX UP
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/124.m3u8?DMIPTV
-#EXTINF:-1,TNT
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/184.m3u8?DMIPTV
-#EXTINF:-1,CINE+
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/28.m3u8?DMIPTV
-#EXTINF:-1,HBO SIGNATURE
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/113.m3u8?DMIPTV
-#EXTINF:-1,HBO FAMILY
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/107.m3u8?DMIPTV
-#EXTINF:-1,HBO 2
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/105.m3u8?DMIPTV
-#EXTINF:-1,HBO
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/108.m3u8?DMIPTV
-#EXTINF:-1,HBO PLUS E
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/111.m3u8?DMIPTV
-#EXTINF:-1,PARAMOUNT
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/140.m3u8?DMIPTV
-#EXTINF:-1,SPACE
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/167.m3u8?DMIPTV
-#EXTINF:-1,STUDIO UNIVERSAL E
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/175.m3u8?DMIPTV
-#EXTINF:-1,MAX PRIME
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/123.m3u8?DMIPTV
-#EXTINF:-1,CINEMAX
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/30.m3u8?DMIPTV
-#EXTINF:-1,MEGAPIX
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/126.m3u8?DMIPTV
-#EXTINF:-1,MAX
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/121.m3u8?DMIPTV
-#EXTINF:-1,TCM
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/180.m3u8?DMIPTV
-#EXTINF:-1,CINE SKY
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/27.m3u8?DMIPTV
-#EXTINF:-1,TELECINE PIPOCA
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/194.m3u8?DMIPTV
-#EXTINF:-1,TELECINE FUN
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/192.m3u8?DMIPTV
-#EXTINF:-1,TELECINE CULT
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/190.m3u8?DMIPTV
-#EXTINF:-1,TELECINE PREMIUM
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/196.m3u8?DMIPTV
-#EXTINF:-1,TELECINE TOUCH
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/198.m3u8?DMIPTV
-#EXTINF:-1,TELECINE ACTION
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/188.m3u8?DMIPTV
-
-#EXTINF:-1,COMBATE
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/32.m3u8?DMIPTV
-
-
-#EXTINF:-1,SONY
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/23.m3u8?DMIPTV
-#EXTINF:-1,LIFETIME
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/118.m3u8?DMIPTV
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/203.m3u8?DMIPTV
-#EXTINF:-1,FOX PREMIUM 1
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/75.m3u8?DMIPTV
-#EXTINF:-1,A&E
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/3.m3u8?DMIPTV
-#EXTINF:-1,TBS
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/179.m3u8?DMIPTV
-#EXTINF:-1,FOX
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/73.m3u8?DMIPTV
-#EXTINF:-1,WARNER
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/208.m3u8?DMIPTV
-#EXTINF:-1,FOX PREMIUM 2
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/76.m3u8?DMIPTV
-#EXTINF:-1,COMEDY CENTRAL
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/34.m3u8?DMIPTV
-#EXTINF:-1,FX
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/69.m3u8?DMIPTV
-#EXTINF:-1,AMC
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/8.m3u8?DMIPTV
-#EXTINF:-1,SYFY
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/177.m3u8?DMIPTV
-#EXTINF:-1,AXN
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/5.m3u8?DMIPTV
-#EXTINF:-1,TNT SERIES
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/186.m3u8?DMIPTV
-
-#EXTINF:-1,BAND NEWS
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/17.m3u8?DMIPTV
-#EXTINF:-1,RECORD NEWS
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/160.m3u8?DMIPTV
-#EXTINF:-1,GLOBO NEWS
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/91.m3u8?DMIPTV
-
-#EXTINF:-1,DISNEY XD
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/52.m3u8?DMIPTV
-#EXTINF:-1,NICKELODEON
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/136.m3u8?DMIPTV
-#EXTINF:-1,BOOMERANG
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/20.m3u8?DMIPTV
-#EXTINF:-1,DISCONERY KIDS
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/42.m3u8?DMIPTV
-#EXTINF:-1,CARTOON NETWORK
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/25.m3u8?DMIPTV
-#EXTINF:-1,DISNEY JUNIOR
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/51.m3u8?DMIPTV
-#EXTINF:-1,GLOOB
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/95.m3u8?DMIPTV
-#EXTINF:-1,NAT GEO KIDS
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/26.m3u8?DMIPTV
-#EXTINF:-1,BABY TV
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/13.m3u8?DMIPTV
-#EXTINF:-1,NICK JR
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/135.m3u8?DMIPTV
-
-#EXTINF:-1,ANIMAL PLANET
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/10.m3u8?DMIPTV
-#EXTINF:-1,DISCOVERY CHANNEL
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/37.m3u8?DMIPTV
-#EXTINF:-1,INVESTIGAÇÃO DISCOVERY
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/117.m3u8?DMIPTV
-#EXTINF:-1,DISCOVERY WORLD
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/47.m3u8?DMIPTV
-#EXTINF:-1,DISCOVERY TURBO
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/46.m3u8?DMIPTV
-#EXTINF:-1,DISCOVERY THEATER
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/44.m3u8?DMIPTV
-#EXTINF:-1,DISCOVERY SCIENCE
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/43.m3u8?DMIPTV
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/133.m3u8?DMIPTV
-#EXTINF:-1,NATGEO WILD
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/131.m3u8?DMIPTV
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/38.m3u8?DMIPTV
-#EXTINF:-1,H2
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/102.m3u8?DMIPTV
-#EXTINF:-1,HISTORY CHANNEL
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/115.m3u8?DMIPTV
-
-#EXTINF:-1,MULTISHOW
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/128.m3u8?DMIPTV
-#EXTINF:-1,MUSIC BOX BRAZIL
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/129.m3u8?DMIPTV
-#EXTINF:-1,AMAZON SAT
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/6.m3u8?DMIPTV
-#EXTINF:-1,VH1
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/204.m3u8?DMIPTV
-#EXTINF:-1,BIS
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/12.m3u8?DMIPTV
-#EXTINF:-1,MTV
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/120.m3u8?DMIPTV
-
-#EXTINF:-1,FOOD NETWORK
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/71.m3u8?DMIPTV
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/40.m3u8?DMIPTV
-#EXTINF:-1,E!
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/54.m3u8?DMIPTV
-#EXTINF:-1,TLC
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/182.m3u8?DMIPTV
-#EXTINF:-1,WOOHOO
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/209.m3u8?DMIPTV
-#EXTINF:-1,FOX LIFE
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/74.m3u8?DMIPTV
-#EXTINF:-1,CANAL OFF
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/137.m3u8?DMIPTV
-#EXTINF:-1,VIVA
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/206.m3u8?DMIPTV
-#EXTINF:-1,GNT
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/83.m3u8?DMIPTV
-#EXTINF:-1,GLOBO SAT
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/98.m3u8?DMIPTV
-
-#EXTINF:-1,PASSIEXXX +18
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/219.m3u8?DMIPTV
-#EXTINF:-1,SEXTREME +18
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/224.m3u8?DMIPTV
-#EXTINF:-1,SEXYHOT +18
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/225.m3u8?DMIPTV
-#EXTINF:-1,SEXZONE +18
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/223.m3u8?DMIPTV
-#EXTINF:-1,PLAYBOY +18
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/221.m3u8?DMIPTV
-#EXTINF:-1,HOT +18
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/218.m3u8?DMIPTV
-#EXTINF:-1,VENUS +18
-http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/226.m3u8?DMIPTV
-
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="CANAIS HD", Discovery Turbo HD#
+#EXTINF:-1 tvg-id="NATGEO WILD HD" tvg-name="NATGEO WILD HD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="CANAIS HD", NATGEO WILD HD#
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="CANAIS HD", Discovery Theater HD#
+#EXTINF:-1 tvg-id="Discovery world HD" tvg-name="Discovery world HD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="CANAIS HD", Discovery world HD#
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="CANAIS HD", H2 HD#
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="CANAIS HD", Discovery Kids HD#
+#EXTINF:-1 tvg-id="Gloob HD" tvg-name="Gloob HD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="CANAIS HD", Gloob HD#
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="CANAIS HD", Disney Channel HD#
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="CANAIS HD", Nickelodeon HD#
+#EXTINF:-1 tvg-id="Cartoon HD" tvg-name="Cartoon HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="CANAIS HD", Cartoon HD#
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="CANAIS HD", BIS HD#
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="CANAIS HD", MTV HD#
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="CANAIS HD", VH1 HD#
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="CANAIS HD", Universal Channel HD#
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="CANAIS HD", FOX HD#
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="CANAIS HD", Warner HD#
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="CANAIS HD", Sony HD#
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="CANAIS HD", FX HD#
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="CANAIS HD", AXN HD#
+#EXTINF:-1 tvg-id="ID HD" tvg-name="ID HD" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="CANAIS HD", ID HD#
+#EXTINF:-1 tvg-id="LIFETIME HD" tvg-name="LIFETIME HD" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="CANAIS HD", LIFETIME HD#
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-name="TNT SÉRIES HD" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="CANAIS HD", TNT SÉRIES HD#
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="CANAIS HD", Canal Brasil HD#
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="CANAIS HD", TNT HD#
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="CANAIS HD", Megapix HD#
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="CANAIS HD", Space HD#
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="CANAIS HD", Cinemax HD#
+#EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="CANAIS HD", Paramount HD#
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS HD", Telecine Premium HD#
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="CANAIS HD", Telecine Action HD#
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="CANAIS HD", Telecine Touch HD#
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="CANAIS HD", Telecine Fun HD#
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="CANAIS HD", Telecine Pipoca HD#
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="CANAIS HD", Telecine Cult HD#
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="CANAIS HD", HBO HD#
+#EXTINF:-1 tvg-id="HBO HD 2" tvg-name="HBO HD 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="CANAIS HD", HBO HD 2#
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="CANAIS HD", HBO Plus HD#
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="CANAIS HD", HBO Family HD#
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="CANAIS HD", HBO Signature HD#
+#EXTINF:-1 tvg-id="MAX UP HD" tvg-name="MAX UP HD" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="CANAIS HD", MAX UP HD#
+#EXTINF:-1 tvg-id="MAX HD" tvg-name="MAX HD" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="CANAIS HD", MAX HD#
+#EXTINF:-1 tvg-id="MAX Prime HD" tvg-name="MAX Prime HD" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="CANAIS HD", MAX Prime HD#
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS HD", Premiere Clubes HD#
+#EXTINF:-1 tvg-id="Premiere HD 2" tvg-name="Premiere HD 2" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS HD", Premiere HD 2#
+#EXTINF:-1 tvg-id="PREMIERE HD 3" tvg-name="PREMIERE HD 3" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS HD", PREMIERE HD 3#
+#EXTINF:-1 tvg-id="PREMIERE HD 4" tvg-name="PREMIERE HD 4" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS HD", PREMIERE HD 4#
+#EXTINF:-1 tvg-id="PREMIERE HD 5" tvg-name="PREMIERE HD 5" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS HD", PREMIERE HD 5#
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="CANAIS HD", Combate HD#
+#EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura HD" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="CANAIS HD", Cultura HD#
+#EXTINF:-1 tvg-id="EI Maxx HD" tvg-name="EI Maxx HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="CANAIS HD", EI Maxx HD#
+#EXTINF:-1 tvg-id="EI Maxx 2 HD" tvg-name="EI Maxx 2 HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="CANAIS HD", EI Maxx 2 HD#
+#EXTINF:-1 tvg-id="A&amp;E HD" tvg-name="A&amp;E HD" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="CANAIS HD", A&amp;E HD#
+#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="http://vertv.me/fox1hd.png" group-title="CANAIS HD", Fox 1 HD#
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="https://goo.gl/Q28ype" group-title="CANAIS HD", Fox Action HD#
+#EXTINF:-1 tvg-id="NET TV HD" tvg-name="NET TV HD" tvg-logo="https://goo.gl/NE2Qb7" group-title="CANAIS HD", NET TV HD#
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="https://goo.gl/sVGbhF" group-title="CANAIS HD", BBC Earth HD#
 
 ################################################################################# Filmes e Series
 
