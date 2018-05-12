@@ -2,8 +2,8 @@
 
 ################################################## CANAIS HD
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="FILMES / SERIES", HBO HD#
-http://www.tvonlineaovivo.net/27cd386f-04f8-4d0f-b45a-e8fcf4fad386
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX FULL HD
+http://142.44.137.22:8080/live/erica/erica/6324.ts
 
 ################################################################################# Filmes e Series
 
