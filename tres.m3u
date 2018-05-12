@@ -1,5 +1,11 @@
 #EXTM3U
 
+################################################## CANAIS HD
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="FILMES / SERIES", HBO HD#
+http://pxstream.tv/4eb08ecb-eb9f-4ddb-b537-c6a13c84d384
+
+
 ################################################################################# Filmes e Series
 
 #EXTINF:-1 tvg-logo="rDFgiu" group-title="LANÇAMENTOS 2018", VINGADORES 3: GUERRA INFINITA (DUB - TS) 
@@ -17,9 +23,6 @@ http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CIRCULODEFOGOAREVOLTADUB.mp4
 
 #EXTINF:-1 tvg-logo="tVLsBE" group-title="LANÇAMENTOS 2018", A MALDIÇÃO DA CASA WHINCHESTER (DUB - TS)
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/AMALDICA0DACWTSDUB.mp4
-
-#EXTINF:-1 tvg-logo="9yCBMg" group-title="LANÇAMENTOS 2018", A ESCOLHA PERFEITA 3 (DUB)
-http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/AESCOLHAPERFEITA3DUB.mp4
 
 #EXTINF:-1 tvg-logo="wbyzbU" group-title="LANÇAMENTOS 2018", CINQUENTA TONS DE LIBERDADE (LEG)
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CTDLHDLEG.mp4
@@ -55,7 +58,4 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VOLDEMORT20
 
 ############### CANAIS ################################################
 
-################################################## CANAIS HD
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="FILMES / SERIES", HBO
-blob:http://pxstream.tv/4eb08ecb-eb9f-4ddb-b537-c6a13c84d384
