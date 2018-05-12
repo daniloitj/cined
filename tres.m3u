@@ -1,649 +1,197 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",A&E HD
-http://142.44.137.22:8080/live/erica/erica/1063.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",A&E SD
-http://142.44.137.22:8080/live/erica/erica/833.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",AMC HD
-http://142.44.137.22:8080/live/erica/erica/1062.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",AMC SD
-http://142.44.137.22:8080/live/erica/erica/1061.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ANIMAL PLANET HD
-http://142.44.137.22:8080/live/erica/erica/1060.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ANIMAL PLANET SD
-http://142.44.137.22:8080/live/erica/erica/832.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ATENÇÃO VEJA ISSO
-http://142.44.137.22:8080/live/erica/erica/3874.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",AXN HD
-http://142.44.137.22:8080/live/erica/erica/1059.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",AXN SD
-http://142.44.137.22:8080/live/erica/erica/831.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BABY TV SD
-http://142.44.137.22:8080/live/erica/erica/1058.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND HD
-http://142.44.137.22:8080/live/erica/erica/1057.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND NEWS SD
-http://142.44.137.22:8080/live/erica/erica/1056.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND PARA SD
-http://142.44.137.22:8080/live/erica/erica/829.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND SD
-http://142.44.137.22:8080/live/erica/erica/830.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND  SD
-http://142.44.137.22:8080/live/erica/erica/1055.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND SPORTS HD
-http://142.44.137.22:8080/live/erica/erica/1054.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND SPORTS SD
-http://142.44.137.22:8080/live/erica/erica/1053.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BEN 10 24HRS
-http://142.44.137.22:8080/live/erica/erica/1050.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BIS HD
-http://142.44.137.22:8080/live/erica/erica/1049.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BIS SD
-http://142.44.137.22:8080/live/erica/erica/828.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BOB ESPONJA
-http://142.44.137.22:8080/live/erica/erica/1048.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BOOMERANG SD
-http://142.44.137.22:8080/live/erica/erica/1047.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL BRASIL HD
-http://142.44.137.22:8080/live/erica/erica/1046.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL BRASIL SD
-http://142.44.137.22:8080/live/erica/erica/1045.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL DO BOI SD
-http://142.44.137.22:8080/live/erica/erica/798.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL FUTEBOL
-http://142.44.137.22:8080/live/erica/erica/1044.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL RURAL SD
-http://142.44.137.22:8080/live/erica/erica/827.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL SONY HD
-http://142.44.137.22:8080/live/erica/erica/1043.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL SONY SD
-http://142.44.137.22:8080/live/erica/erica/826.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANCAO NOVA
-http://142.44.137.22:8080/live/erica/erica/1042.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CARTOON NETWORK HD
-http://142.44.137.22:8080/live/erica/erica/1041.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CARTOON NETWORK  RETRO SD
-http://142.44.137.22:8080/live/erica/erica/1040.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CARTOON NETWORK SD
-http://142.44.137.22:8080/live/erica/erica/825.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CAVALEIROS ZODIACO 24HRS
-http://142.44.137.22:8080/live/erica/erica/1039.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CHAVES
-http://142.44.137.22:8080/live/erica/erica/835.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CHAVES DESENHO
-http://142.44.137.22:8080/live/erica/erica/834.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CINEMAX HD
-http://142.44.137.22:8080/live/erica/erica/1038.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CINEMAX SD
-http://142.44.137.22:8080/live/erica/erica/1037.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CNN INTERNACIONAL SD
-http://142.44.137.22:8080/live/erica/erica/1036.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMBATE FHD
-http://142.44.137.22:8080/live/erica/erica/1035.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMBATE FULL HD
-http://142.44.137.22:8080/live/erica/erica/6321.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMBATE HD
-http://142.44.137.22:8080/live/erica/erica/1034.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMBATE SD
-http://142.44.137.22:8080/live/erica/erica/1033.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMEDY CENTRAL HD
-http://142.44.137.22:8080/live/erica/erica/1032.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMEDY CENTRAL SD
-http://142.44.137.22:8080/live/erica/erica/1031.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY CHANNEL HD
-http://142.44.137.22:8080/live/erica/erica/1030.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY CHANNEL SD
-http://142.44.137.22:8080/live/erica/erica/824.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY CIVILIZATION FULL HD
-http://142.44.137.22:8080/live/erica/erica/6335.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY CIVILIZATION HD
-http://142.44.137.22:8080/live/erica/erica/1029.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY HOME & HEALTH HD
-http://142.44.137.22:8080/live/erica/erica/1028.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY HOME & HEALTH SD
-http://142.44.137.22:8080/live/erica/erica/823.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY KIDS HD
-http://142.44.137.22:8080/live/erica/erica/1027.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY KIDS SD
-http://142.44.137.22:8080/live/erica/erica/1026.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY SCIENCE FULL HD
-http://142.44.137.22:8080/live/erica/erica/6336.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY SCIENCE HD
-http://142.44.137.22:8080/live/erica/erica/1025.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY THEATER HD
-http://142.44.137.22:8080/live/erica/erica/1024.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY THEATER SD
-http://142.44.137.22:8080/live/erica/erica/822.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY TURBO HD
-http://142.44.137.22:8080/live/erica/erica/1023.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY TURBO SD
-http://142.44.137.22:8080/live/erica/erica/821.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY WORLD  HD
-http://142.44.137.22:8080/live/erica/erica/1022.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISNEY CHANNEL HD
-http://142.44.137.22:8080/live/erica/erica/1021.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISNEY JUNIOR SD
-http://142.44.137.22:8080/live/erica/erica/1020.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISNEY XD SD
-http://142.44.137.22:8080/live/erica/erica/1019.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DRAGON BALL
-http://142.44.137.22:8080/live/erica/erica/1018.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DRAGON BALL SUPER
-http://142.44.137.22:8080/live/erica/erica/1017.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Dois Homens e Meio
-http://142.44.137.22:8080/live/erica/erica/1016.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",E! HD
-http://142.44.137.22:8080/live/erica/erica/1015.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",E! SD
-http://142.44.137.22:8080/live/erica/erica/1014.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EI MAXX 2 HD
-http://142.44.137.22:8080/live/erica/erica/1013.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EI MAXX 2 SD
-http://142.44.137.22:8080/live/erica/erica/1012.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EI MAXX HD
-http://142.44.137.22:8080/live/erica/erica/1011.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EI MAXX SD
-http://142.44.137.22:8080/live/erica/erica/1010.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EPTV CAMPINAS HD
-http://142.44.137.22:8080/live/erica/erica/1009.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN
-http://142.44.137.22:8080/live/erica/erica/5288.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN BRASIL HD
-http://142.44.137.22:8080/live/erica/erica/1007.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN BRASIL SD
-http://142.44.137.22:8080/live/erica/erica/1006.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN Brasil
-http://142.44.137.22:8080/live/erica/erica/5287.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN FHD
-http://142.44.137.22:8080/live/erica/erica/1005.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN   HD
-http://142.44.137.22:8080/live/erica/erica/1008.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN   SD
-http://142.44.137.22:8080/live/erica/erica/820.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN SD ALTERNATIVO
-http://142.44.137.22:8080/live/erica/erica/819.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPORTE INTERATIVO 2 FULL HD
-http://142.44.137.22:8080/live/erica/erica/6323.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPORTE INTERATIVO FULL HD
-http://142.44.137.22:8080/live/erica/erica/6322.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EUROSPORT
-http://142.44.137.22:8080/live/erica/erica/1004.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Esporte Interativo
-http://142.44.137.22:8080/live/erica/erica/5286.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FISH TV SD
-http://142.44.137.22:8080/live/erica/erica/1003.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOOD NETWORK HD
-http://142.44.137.22:8080/live/erica/erica/1002.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOOD NETWORK SD
-http://142.44.137.22:8080/live/erica/erica/818.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX FULL HD
-http://142.44.137.22:8080/live/erica/erica/6324.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX HD
-http://142.44.137.22:8080/live/erica/erica/1001.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX LIFE HD
-http://142.44.137.22:8080/live/erica/erica/1000.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX LIFE  SD
-http://142.44.137.22:8080/live/erica/erica/816.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX PREMIUM 1 HD
-http://142.44.137.22:8080/live/erica/erica/999.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX PREMIUM 2 HD
-http://142.44.137.22:8080/live/erica/erica/998.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SD
-http://142.44.137.22:8080/live/erica/erica/817.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX  SD
-http://142.44.137.22:8080/live/erica/erica/997.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS 2 FULL HD
-http://142.44.137.22:8080/live/erica/erica/6320.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS 2 HD
-http://142.44.137.22:8080/live/erica/erica/996.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS 2 SD
-http://142.44.137.22:8080/live/erica/erica/995.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS FULL HD
-http://142.44.137.22:8080/live/erica/erica/6319.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS HD
-http://142.44.137.22:8080/live/erica/erica/994.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS SD
-http://142.44.137.22:8080/live/erica/erica/993.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FUTURA
-http://142.44.137.22:8080/live/erica/erica/992.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FX HD
-http://142.44.137.22:8080/live/erica/erica/991.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FX SD
-http://142.44.137.22:8080/live/erica/erica/990.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GALINHA PINTADINHA 24 HORAS
-http://142.44.137.22:8080/live/erica/erica/6313.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GAZETA SP HD
-http://142.44.137.22:8080/live/erica/erica/989.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO BRASILIA HD
-http://142.44.137.22:8080/live/erica/erica/988.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO BRASILIA SD
-http://142.44.137.22:8080/live/erica/erica/987.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO INTERNACIONAL FULL HD
-http://142.44.137.22:8080/live/erica/erica/986.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO INTERNACIONAL  SD
-http://142.44.137.22:8080/live/erica/erica/985.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO MINAS HD
-http://142.44.137.22:8080/live/erica/erica/984.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NEWS FULL HD
-http://142.44.137.22:8080/live/erica/erica/6327.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NEWS HD
-http://142.44.137.22:8080/live/erica/erica/983.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NEWS SD
-http://142.44.137.22:8080/live/erica/erica/815.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NORDESTE
-http://142.44.137.22:8080/live/erica/erica/811.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NORDESTE HD
-http://142.44.137.22:8080/live/erica/erica/982.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NORDESTE SD ALT
-http://142.44.137.22:8080/live/erica/erica/782.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO PARANA  HD
-http://142.44.137.22:8080/live/erica/erica/981.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO PORTO ALEGRE
-http://142.44.137.22:8080/live/erica/erica/5289.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO PORTUGAL SD
-http://142.44.137.22:8080/live/erica/erica/980.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO RJ
-http://142.44.137.22:8080/live/erica/erica/5293.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO RJ HD
-http://142.44.137.22:8080/live/erica/erica/979.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO RJ SD
-http://142.44.137.22:8080/live/erica/erica/978.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO RPC
-http://142.44.137.22:8080/live/erica/erica/5291.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO SP
-http://142.44.137.22:8080/live/erica/erica/5292.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO SP HD
-http://142.44.137.22:8080/live/erica/erica/977.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO SP SD
-http://142.44.137.22:8080/live/erica/erica/976.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBOSAT HD
-http://142.44.137.22:8080/live/erica/erica/975.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBOSAT SD
-http://142.44.137.22:8080/live/erica/erica/813.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOOB  HD
-http://142.44.137.22:8080/live/erica/erica/974.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOOB  SD
-http://142.44.137.22:8080/live/erica/erica/812.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GNT HD
-http://142.44.137.22:8080/live/erica/erica/973.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GNT SD
-http://142.44.137.22:8080/live/erica/erica/814.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Globo Brasilia
-http://142.44.137.22:8080/live/erica/erica/5294.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Globo EPTV Campinas
-http://142.44.137.22:8080/live/erica/erica/5290.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Gr6 Explode FM
-http://142.44.137.22:8080/live/erica/erica/6032.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",H 2 SD
-http://142.44.137.22:8080/live/erica/erica/810.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",H2 HD
-http://142.44.137.22:8080/live/erica/erica/972.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO 2 HD
-http://142.44.137.22:8080/live/erica/erica/971.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO 2 SD
-http://142.44.137.22:8080/live/erica/erica/970.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO FAMILY HD
-http://142.44.137.22:8080/live/erica/erica/969.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO FAMILY  SD
-http://142.44.137.22:8080/live/erica/erica/809.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO HD
-http://142.44.137.22:8080/live/erica/erica/968.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS E SD
-http://142.44.137.22:8080/live/erica/erica/967.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS HD
-http://142.44.137.22:8080/live/erica/erica/966.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS PANREGIONAL SD
-http://142.44.137.22:8080/live/erica/erica/965.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS SD
-http://142.44.137.22:8080/live/erica/erica/964.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS  SD
-http://142.44.137.22:8080/live/erica/erica/808.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO SD
-http://142.44.137.22:8080/live/erica/erica/963.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO SIGNATURE HD
-http://142.44.137.22:8080/live/erica/erica/962.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO SIGNATURE SD
-http://142.44.137.22:8080/live/erica/erica/961.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO SIGNATURE  SD
-http://142.44.137.22:8080/live/erica/erica/807.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO2  SD
-http://142.44.137.22:8080/live/erica/erica/806.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HISTORY CHANNEL SD
-http://142.44.137.22:8080/live/erica/erica/960.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HISTORY FULL HD
-http://142.44.137.22:8080/live/erica/erica/6325.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",I-SAT SD
-http://142.44.137.22:8080/live/erica/erica/959.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",INVESTIGATION DISCOVERY HD
-http://142.44.137.22:8080/live/erica/erica/958.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",INVESTIGATION DISCOVERY SD
-http://142.44.137.22:8080/live/erica/erica/805.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",LIFETIME HD
-http://142.44.137.22:8080/live/erica/erica/957.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX HD
-http://142.44.137.22:8080/live/erica/erica/956.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX PRIME E SD
-http://142.44.137.22:8080/live/erica/erica/955.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX PRIME HD
-http://142.44.137.22:8080/live/erica/erica/954.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX PRIME SD
-http://142.44.137.22:8080/live/erica/erica/803.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX SD
-http://142.44.137.22:8080/live/erica/erica/802.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX UP HD
-http://142.44.137.22:8080/live/erica/erica/953.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX UP SD
-http://142.44.137.22:8080/live/erica/erica/801.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MEGAPIX FULL HD
-http://142.44.137.22:8080/live/erica/erica/6334.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MEGAPIX HD
-http://142.44.137.22:8080/live/erica/erica/952.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MEGAPIX SD
-http://142.44.137.22:8080/live/erica/erica/800.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MTV DANCE
-http://142.44.137.22:8080/live/erica/erica/951.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MTV HD
-http://142.44.137.22:8080/live/erica/erica/950.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MTV PORTUGAL
-http://142.44.137.22:8080/live/erica/erica/949.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MTV SD
-http://142.44.137.22:8080/live/erica/erica/804.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MULTISHOW HD
-http://142.44.137.22:8080/live/erica/erica/948.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MULTISHOW SD
-http://142.44.137.22:8080/live/erica/erica/947.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MUSIC BOX BRASIL HD
-http://142.44.137.22:8080/live/erica/erica/946.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NARUTO 24 HORAS
-http://142.44.137.22:8080/live/erica/erica/6312.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NAT GEO KIDS
-http://142.44.137.22:8080/live/erica/erica/944.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NAT GEO KIDS HD
-http://142.44.137.22:8080/live/erica/erica/945.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NAT GEO SD
-http://142.44.137.22:8080/live/erica/erica/797.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NATGEO WILD HD
-http://142.44.137.22:8080/live/erica/erica/943.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NATGEO WILD SD
-http://142.44.137.22:8080/live/erica/erica/799.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NHK SD
-http://142.44.137.22:8080/live/erica/erica/942.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NICK JR SD
-http://142.44.137.22:8080/live/erica/erica/941.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NICKELODEON HD
-http://142.44.137.22:8080/live/erica/erica/940.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NICKELODEON SD
-http://142.44.137.22:8080/live/erica/erica/939.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",O MASCARA 24HRS
-http://142.44.137.22:8080/live/erica/erica/938.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",OFF HD
-http://142.44.137.22:8080/live/erica/erica/937.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",OFF SD
-http://142.44.137.22:8080/live/erica/erica/796.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",OS SIMPSONS 24HRS
-http://142.44.137.22:8080/live/erica/erica/936.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PARAMOUNT CHANNEL HD
-http://142.44.137.22:8080/live/erica/erica/935.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PARAMOUNT CHANNEL SD
-http://142.44.137.22:8080/live/erica/erica/795.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PICA PAU
-http://142.44.137.22:8080/live/erica/erica/934.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PLAY TV SD
-http://142.44.137.22:8080/live/erica/erica/933.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PLAYBOY SD
-http://142.44.137.22:8080/live/erica/erica/932.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIER CLUBES SD
-http://142.44.137.22:8080/live/erica/erica/773.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 2 HD
-http://142.44.137.22:8080/live/erica/erica/928.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 2 SD
-http://142.44.137.22:8080/live/erica/erica/771.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 2 SD ALT
-http://142.44.137.22:8080/live/erica/erica/5301.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 3 HD
-http://142.44.137.22:8080/live/erica/erica/927.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 3 SD
-http://142.44.137.22:8080/live/erica/erica/770.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 4 HD
-http://142.44.137.22:8080/live/erica/erica/926.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 4 SD
-http://142.44.137.22:8080/live/erica/erica/769.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 4 SD ALT
-http://142.44.137.22:8080/live/erica/erica/5299.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 5 FULL HD
-http://142.44.137.22:8080/live/erica/erica/6326.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 5 HD
-http://142.44.137.22:8080/live/erica/erica/925.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 5 SD
-http://142.44.137.22:8080/live/erica/erica/768.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 5 SD ALT
-http://142.44.137.22:8080/live/erica/erica/5298.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 6 HD
-http://142.44.137.22:8080/live/erica/erica/924.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 6 SD
-http://142.44.137.22:8080/live/erica/erica/767.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 6 SD ALT
-http://142.44.137.22:8080/live/erica/erica/5297.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 7 HD
-http://142.44.137.22:8080/live/erica/erica/923.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 7 SD
-http://142.44.137.22:8080/live/erica/erica/766.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 8 HD
-http://142.44.137.22:8080/live/erica/erica/922.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 8 SD
-http://142.44.137.22:8080/live/erica/erica/765.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 9 HD
-http://142.44.137.22:8080/live/erica/erica/921.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 9 SD
-http://142.44.137.22:8080/live/erica/erica/764.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES FHD
-http://142.44.137.22:8080/live/erica/erica/929.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES FULL HD
-http://142.44.137.22:8080/live/erica/erica/6315.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES HD
-http://142.44.137.22:8080/live/erica/erica/930.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES HD ALT
-http://142.44.137.22:8080/live/erica/erica/772.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES SD
-http://142.44.137.22:8080/live/erica/erica/931.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PRIME BOX BRASIL SD
-http://142.44.137.22:8080/live/erica/erica/920.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Premiere 3 SD ALT
-http://142.44.137.22:8080/live/erica/erica/5300.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Premiere 7 SD ALT
-http://142.44.137.22:8080/live/erica/erica/5296.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Premiere Clubes
-http://142.44.137.22:8080/live/erica/erica/5295.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",RBS TV PORTO ALEGRE SD
-http://142.44.137.22:8080/live/erica/erica/919.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",RBS TV SD
-http://142.44.137.22:8080/live/erica/erica/794.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",RECORD FULL HD
-http://142.44.137.22:8080/live/erica/erica/6337.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",REDE RECORD FULL HD
-http://142.44.137.22:8080/live/erica/erica/910.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SBT HD
-http://142.44.137.22:8080/live/erica/erica/905.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SBT SD
-http://142.44.137.22:8080/live/erica/erica/903.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SBT  SD ALT
-http://142.44.137.22:8080/live/erica/erica/904.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SCOOBY DOO 24 HORAS
-http://142.44.137.22:8080/live/erica/erica/6314.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SEXTREME  SD
-http://142.44.137.22:8080/live/erica/erica/902.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SEXY HOT  SD
-http://142.44.137.22:8080/live/erica/erica/901.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SEXZONE 2 HD
-http://142.44.137.22:8080/live/erica/erica/836.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SEXZONE HD
-http://142.44.137.22:8080/live/erica/erica/837.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SIC INTERNACIONAL
-http://142.44.137.22:8080/live/erica/erica/900.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPACE HD
-http://142.44.137.22:8080/live/erica/erica/899.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPACE SD
-http://142.44.137.22:8080/live/erica/erica/791.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORT TV 1 HD - PT
-http://142.44.137.22:8080/live/erica/erica/898.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORT TV 2 HD - PT
-http://142.44.137.22:8080/live/erica/erica/897.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORT TV 3 HD - PT
-http://142.44.137.22:8080/live/erica/erica/896.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORT TV 4 HD - PT
-http://142.44.137.22:8080/live/erica/erica/895.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 2 FULL HD
-http://142.44.137.22:8080/live/erica/erica/6317.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 2 HD
-http://142.44.137.22:8080/live/erica/erica/894.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 2 SD
-http://142.44.137.22:8080/live/erica/erica/893.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 3 FULL HD
-http://142.44.137.22:8080/live/erica/erica/6318.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 3 HD
-http://142.44.137.22:8080/live/erica/erica/892.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 3 SD
-http://142.44.137.22:8080/live/erica/erica/891.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV FULL HD
-http://142.44.137.22:8080/live/erica/erica/6316.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV HD
-http://142.44.137.22:8080/live/erica/erica/890.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV SD
-http://142.44.137.22:8080/live/erica/erica/889.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",STUDIO UNIVERSAL HD
-http://142.44.137.22:8080/live/erica/erica/888.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",STUDIO UNIVERSAL SD
-http://142.44.137.22:8080/live/erica/erica/789.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SYFY HD
-http://142.44.137.22:8080/live/erica/erica/887.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SYFY SD
-http://142.44.137.22:8080/live/erica/erica/790.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SporTV SD ALT
-http://142.44.137.22:8080/live/erica/erica/5303.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Sportv 2 SD ALT
-http://142.44.137.22:8080/live/erica/erica/5302.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TBS SD
-http://142.44.137.22:8080/live/erica/erica/886.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TCM SD
-http://142.44.137.22:8080/live/erica/erica/785.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE ACTION FULL HD
-http://142.44.137.22:8080/live/erica/erica/6329.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE ACTION HD
-http://142.44.137.22:8080/live/erica/erica/885.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE ACTION  SD
-http://142.44.137.22:8080/live/erica/erica/884.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE CULT FULL HD
-http://142.44.137.22:8080/live/erica/erica/6331.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE CULT HD
-http://142.44.137.22:8080/live/erica/erica/883.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE CULT  SD
-http://142.44.137.22:8080/live/erica/erica/882.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE FUN FULL HD
-http://142.44.137.22:8080/live/erica/erica/6330.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE FUN HD
-http://142.44.137.22:8080/live/erica/erica/881.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE FUN SD
-http://142.44.137.22:8080/live/erica/erica/880.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PIPOCA FHD
-http://142.44.137.22:8080/live/erica/erica/879.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PIPOCA FULL HD
-http://142.44.137.22:8080/live/erica/erica/6332.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PIPOCA HD
-http://142.44.137.22:8080/live/erica/erica/788.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PIPOCA  SD
-http://142.44.137.22:8080/live/erica/erica/878.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PREMIUM FHD
-http://142.44.137.22:8080/live/erica/erica/877.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PREMIUM FULL HD
-http://142.44.137.22:8080/live/erica/erica/6328.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PREMIUM SD
-http://142.44.137.22:8080/live/erica/erica/787.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PREMIUM  SD
-http://142.44.137.22:8080/live/erica/erica/876.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE TOUCH FULL HD
-http://142.44.137.22:8080/live/erica/erica/6333.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE TOUCH HD
-http://142.44.137.22:8080/live/erica/erica/875.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE TOUCH SD
-http://142.44.137.22:8080/live/erica/erica/874.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",THE HISTORY CHANNEL HD
-http://142.44.137.22:8080/live/erica/erica/873.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TLC HD
-http://142.44.137.22:8080/live/erica/erica/872.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TLC SD
-http://142.44.137.22:8080/live/erica/erica/786.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TNT HD
-http://142.44.137.22:8080/live/erica/erica/871.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TNT  SD
-http://142.44.137.22:8080/live/erica/erica/870.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TNT SERIES HD
-http://142.44.137.22:8080/live/erica/erica/869.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TNT SERIES  SD
-http://142.44.137.22:8080/live/erica/erica/868.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TODO MUNDO ODEIA O CHRIS
-http://142.44.137.22:8080/live/erica/erica/867.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TOONCAST SD
-http://142.44.137.22:8080/live/erica/erica/866.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TRU TV SD
-http://142.44.137.22:8080/live/erica/erica/865.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV ANHANGUERA FULL HD
-http://142.44.137.22:8080/live/erica/erica/864.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV APARECIDA
-http://142.44.137.22:8080/live/erica/erica/863.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV BAHIA SD
-http://142.44.137.22:8080/live/erica/erica/862.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CINE 1 HD
-http://142.44.137.22:8080/live/erica/erica/861.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CINE 2 HD
-http://142.44.137.22:8080/live/erica/erica/860.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CINE  3 HD
-http://142.44.137.22:8080/live/erica/erica/859.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CINE 4 HD
-http://142.44.137.22:8080/live/erica/erica/858.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CULTURA
-http://142.44.137.22:8080/live/erica/erica/857.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CULTURA SD
-http://142.44.137.22:8080/live/erica/erica/781.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV GAZETA ES HD
-http://142.44.137.22:8080/live/erica/erica/856.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV GLOBO RIO DE JANEIRO SD
-http://142.44.137.22:8080/live/erica/erica/780.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV GLOBO SAO PAULO SD
-http://142.44.137.22:8080/live/erica/erica/779.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV LIBERAL BELEM SD
-http://142.44.137.22:8080/live/erica/erica/855.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV MIRAMAR SD
-http://142.44.137.22:8080/live/erica/erica/783.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV NOVO TEMPO SD
-http://142.44.137.22:8080/live/erica/erica/784.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV RA TIM BUM SD
-http://142.44.137.22:8080/live/erica/erica/854.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV TEM BAURU
-http://142.44.137.22:8080/live/erica/erica/853.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV TEM BAURU SD
-http://142.44.137.22:8080/live/erica/erica/778.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV TEM SOROCABA SD
-http://142.44.137.22:8080/live/erica/erica/852.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",UNIVERSAL CHANNEL HD
-http://142.44.137.22:8080/live/erica/erica/851.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",UNIVERSAL CHANNEL  SD
-http://142.44.137.22:8080/live/erica/erica/777.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VENUS SD
-http://142.44.137.22:8080/live/erica/erica/850.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VH1 MEGA HITS SD
-http://142.44.137.22:8080/live/erica/erica/848.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VH1 MEGAHITS HD
-http://142.44.137.22:8080/live/erica/erica/849.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VIVA HD
-http://142.44.137.22:8080/live/erica/erica/847.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VIVA SD
-http://142.44.137.22:8080/live/erica/erica/775.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",WARNER CHANNEL HD
-http://142.44.137.22:8080/live/erica/erica/846.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",WARNER CHANNEL SD
-http://142.44.137.22:8080/live/erica/erica/776.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",WOOHOO
-http://142.44.137.22:8080/live/erica/erica/774.ts
+#PLAYLISTV: pltv-logo="https://i.imgur.com/mWyl05e.png" pltv-name="DM IPTV - TV VIP" pltv-description="LISTA DE TV, FILMES, SERIES, ANIMES, DESENHOS E VARIEDADES, ÚLTIMA ATUALIZAÇÃO: 23/01/2018" pltv-cover="https://i.imgur.com/UDABYDR.png" pltv-author="Diego Monte" pltv-site="http://dm-ip.tv" pltv-email="d.h.m@hotmail.com" pltv-phone="(19)99745-0947"
+
+#EXTINF:-1,STUDIO UNIVERSAL
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/174.m3u8?DMIPTV
+#EXTINF:-1,CLASSIQUE TV
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/216.m3u8?DMIPTV
+#EXTINF:-1,TV BRASIL
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/216.m3u8?DMIPTV
+#EXTINF:-1,MAX UP
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/124.m3u8?DMIPTV
+#EXTINF:-1,TNT
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/184.m3u8?DMIPTV
+#EXTINF:-1,CINE+
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/28.m3u8?DMIPTV
+#EXTINF:-1,HBO SIGNATURE
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/113.m3u8?DMIPTV
+#EXTINF:-1,HBO FAMILY
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/107.m3u8?DMIPTV
+#EXTINF:-1,HBO 2
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/105.m3u8?DMIPTV
+#EXTINF:-1,HBO
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/108.m3u8?DMIPTV
+#EXTINF:-1,HBO PLUS E
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/111.m3u8?DMIPTV
+#EXTINF:-1,PARAMOUNT
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/140.m3u8?DMIPTV
+#EXTINF:-1,SPACE
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/167.m3u8?DMIPTV
+#EXTINF:-1,STUDIO UNIVERSAL E
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/175.m3u8?DMIPTV
+#EXTINF:-1,MAX PRIME
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/123.m3u8?DMIPTV
+#EXTINF:-1,CINEMAX
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/30.m3u8?DMIPTV
+#EXTINF:-1,MEGAPIX
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/126.m3u8?DMIPTV
+#EXTINF:-1,MAX
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/121.m3u8?DMIPTV
+#EXTINF:-1,TCM
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/180.m3u8?DMIPTV
+#EXTINF:-1,CINE SKY
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/27.m3u8?DMIPTV
+#EXTINF:-1,TELECINE PIPOCA
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/194.m3u8?DMIPTV
+#EXTINF:-1,TELECINE FUN
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/192.m3u8?DMIPTV
+#EXTINF:-1,TELECINE CULT
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/190.m3u8?DMIPTV
+#EXTINF:-1,TELECINE PREMIUM
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/196.m3u8?DMIPTV
+#EXTINF:-1,TELECINE TOUCH
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/198.m3u8?DMIPTV
+#EXTINF:-1,TELECINE ACTION
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/188.m3u8?DMIPTV
+
+#EXTINF:-1,COMBATE
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/32.m3u8?DMIPTV
+
+
+#EXTINF:-1,SONY
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/23.m3u8?DMIPTV
+#EXTINF:-1,LIFETIME
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/118.m3u8?DMIPTV
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/203.m3u8?DMIPTV
+#EXTINF:-1,FOX PREMIUM 1
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/75.m3u8?DMIPTV
+#EXTINF:-1,A&E
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/3.m3u8?DMIPTV
+#EXTINF:-1,TBS
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/179.m3u8?DMIPTV
+#EXTINF:-1,FOX
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/73.m3u8?DMIPTV
+#EXTINF:-1,WARNER
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/208.m3u8?DMIPTV
+#EXTINF:-1,FOX PREMIUM 2
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/76.m3u8?DMIPTV
+#EXTINF:-1,COMEDY CENTRAL
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/34.m3u8?DMIPTV
+#EXTINF:-1,FX
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/69.m3u8?DMIPTV
+#EXTINF:-1,AMC
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/8.m3u8?DMIPTV
+#EXTINF:-1,SYFY
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/177.m3u8?DMIPTV
+#EXTINF:-1,AXN
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/5.m3u8?DMIPTV
+#EXTINF:-1,TNT SERIES
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/186.m3u8?DMIPTV
+
+#EXTINF:-1,BAND NEWS
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/17.m3u8?DMIPTV
+#EXTINF:-1,RECORD NEWS
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/160.m3u8?DMIPTV
+#EXTINF:-1,GLOBO NEWS
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/91.m3u8?DMIPTV
+
+#EXTINF:-1,DISNEY XD
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/52.m3u8?DMIPTV
+#EXTINF:-1,NICKELODEON
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/136.m3u8?DMIPTV
+#EXTINF:-1,BOOMERANG
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/20.m3u8?DMIPTV
+#EXTINF:-1,DISCONERY KIDS
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/42.m3u8?DMIPTV
+#EXTINF:-1,CARTOON NETWORK
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/25.m3u8?DMIPTV
+#EXTINF:-1,DISNEY JUNIOR
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/51.m3u8?DMIPTV
+#EXTINF:-1,GLOOB
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/95.m3u8?DMIPTV
+#EXTINF:-1,NAT GEO KIDS
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/26.m3u8?DMIPTV
+#EXTINF:-1,BABY TV
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/13.m3u8?DMIPTV
+#EXTINF:-1,NICK JR
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/135.m3u8?DMIPTV
+
+#EXTINF:-1,ANIMAL PLANET
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/10.m3u8?DMIPTV
+#EXTINF:-1,DISCOVERY CHANNEL
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/37.m3u8?DMIPTV
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/117.m3u8?DMIPTV
+#EXTINF:-1,DISCOVERY WORLD
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/47.m3u8?DMIPTV
+#EXTINF:-1,DISCOVERY TURBO
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/46.m3u8?DMIPTV
+#EXTINF:-1,DISCOVERY THEATER
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/44.m3u8?DMIPTV
+#EXTINF:-1,DISCOVERY SCIENCE
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/43.m3u8?DMIPTV
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/133.m3u8?DMIPTV
+#EXTINF:-1,NATGEO WILD
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/131.m3u8?DMIPTV
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/38.m3u8?DMIPTV
+#EXTINF:-1,H2
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/102.m3u8?DMIPTV
+#EXTINF:-1,HISTORY CHANNEL
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/115.m3u8?DMIPTV
+
+#EXTINF:-1,MULTISHOW
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/128.m3u8?DMIPTV
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/129.m3u8?DMIPTV
+#EXTINF:-1,AMAZON SAT
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/6.m3u8?DMIPTV
+#EXTINF:-1,VH1
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/204.m3u8?DMIPTV
+#EXTINF:-1,BIS
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/12.m3u8?DMIPTV
+#EXTINF:-1,MTV
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/120.m3u8?DMIPTV
+
+#EXTINF:-1,FOOD NETWORK
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/71.m3u8?DMIPTV
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/40.m3u8?DMIPTV
+#EXTINF:-1,E!
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/54.m3u8?DMIPTV
+#EXTINF:-1,TLC
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/182.m3u8?DMIPTV
+#EXTINF:-1,WOOHOO
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/209.m3u8?DMIPTV
+#EXTINF:-1,FOX LIFE
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/74.m3u8?DMIPTV
+#EXTINF:-1,CANAL OFF
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/137.m3u8?DMIPTV
+#EXTINF:-1,VIVA
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/206.m3u8?DMIPTV
+#EXTINF:-1,GNT
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/83.m3u8?DMIPTV
+#EXTINF:-1,GLOBO SAT
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/98.m3u8?DMIPTV
+
+#EXTINF:-1,PASSIEXXX +18
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/219.m3u8?DMIPTV
+#EXTINF:-1,SEXTREME +18
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/224.m3u8?DMIPTV
+#EXTINF:-1,SEXYHOT +18
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/225.m3u8?DMIPTV
+#EXTINF:-1,SEXZONE +18
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/223.m3u8?DMIPTV
+#EXTINF:-1,PLAYBOY +18
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/221.m3u8?DMIPTV
+#EXTINF:-1,HOT +18
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/218.m3u8?DMIPTV
+#EXTINF:-1,VENUS +18
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/226.m3u8?DMIPTV
+
 
 ################################################################################# Filmes e Series
 
@@ -689,12 +237,3 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GOTHAMGASLI
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4
 
 ################################################################################# Series
-
-################################################################################# Canais abertos
-
-
-################################################################################# Canais Fechados
-
-############### CANAIS ################################################
-
-
