@@ -1,9 +1,5 @@
 #EXTM3U
 
-################################################## CANAIS HD
-
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",A&E HD
 http://142.44.137.22:8080/live/erica/erica/1063.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",A&E SD
@@ -648,7 +644,6 @@ http://142.44.137.22:8080/live/erica/erica/846.ts
 http://142.44.137.22:8080/live/erica/erica/776.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",WOOHOO
 http://142.44.137.22:8080/live/erica/erica/774.ts
-
 
 ################################################################################# Filmes e Series
 
