@@ -2,8 +2,8 @@
 
 ################################################## CANAIS HD
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX FULL HD
-http://142.44.137.22:8080/live/erica/erica/6324.ts
+#EXTINF:-1,US: FX
+http://ip.open4.xyz:8000/live/ibrahim/korkmaz/1940.ts
 
 ################################################################################# Filmes e Series
 
