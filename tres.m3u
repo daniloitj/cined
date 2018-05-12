@@ -55,329 +55,875 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VOLDEMORT20
 
 ############### CANAIS ################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",HIT TV HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/1809.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",History Channel HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/1386.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",A&E HD
+http://142.44.137.22:8080/live/erica/erica/1063.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",A&E SD
+http://142.44.137.22:8080/live/erica/erica/833.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",AMC HD
+http://142.44.137.22:8080/live/erica/erica/1062.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",AMC SD
+http://142.44.137.22:8080/live/erica/erica/1061.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ANIMAL PLANET HD
+http://142.44.137.22:8080/live/erica/erica/1060.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ANIMAL PLANET SD
+http://142.44.137.22:8080/live/erica/erica/832.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ATENÇÃO VEJA ISSO
+http://142.44.137.22:8080/live/erica/erica/3874.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",AXN HD
+http://142.44.137.22:8080/live/erica/erica/1059.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",AXN SD
+http://142.44.137.22:8080/live/erica/erica/831.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BABY TV SD
+http://142.44.137.22:8080/live/erica/erica/1058.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND HD
+http://142.44.137.22:8080/live/erica/erica/1057.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND NEWS SD
+http://142.44.137.22:8080/live/erica/erica/1056.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND PARA SD
+http://142.44.137.22:8080/live/erica/erica/829.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND SD
+http://142.44.137.22:8080/live/erica/erica/830.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND  SD
+http://142.44.137.22:8080/live/erica/erica/1055.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND SPORTS HD
+http://142.44.137.22:8080/live/erica/erica/1054.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BAND SPORTS SD
+http://142.44.137.22:8080/live/erica/erica/1053.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BEN 10 24HRS
+http://142.44.137.22:8080/live/erica/erica/1050.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BIS HD
+http://142.44.137.22:8080/live/erica/erica/1049.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BIS SD
+http://142.44.137.22:8080/live/erica/erica/828.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BOB ESPONJA
+http://142.44.137.22:8080/live/erica/erica/1048.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",BOOMERANG SD
+http://142.44.137.22:8080/live/erica/erica/1047.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL BRASIL HD
+http://142.44.137.22:8080/live/erica/erica/1046.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL BRASIL SD
+http://142.44.137.22:8080/live/erica/erica/1045.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL DO BOI SD
+http://142.44.137.22:8080/live/erica/erica/798.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL FUTEBOL
+http://142.44.137.22:8080/live/erica/erica/1044.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL RURAL SD
+http://142.44.137.22:8080/live/erica/erica/827.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL SONY HD
+http://142.44.137.22:8080/live/erica/erica/1043.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANAL SONY SD
+http://142.44.137.22:8080/live/erica/erica/826.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CANCAO NOVA
+http://142.44.137.22:8080/live/erica/erica/1042.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CARTOON NETWORK HD
+http://142.44.137.22:8080/live/erica/erica/1041.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CARTOON NETWORK  RETRO SD
+http://142.44.137.22:8080/live/erica/erica/1040.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CARTOON NETWORK SD
+http://142.44.137.22:8080/live/erica/erica/825.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CAVALEIROS ZODIACO 24HRS
+http://142.44.137.22:8080/live/erica/erica/1039.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CHAVES
+http://142.44.137.22:8080/live/erica/erica/835.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CHAVES DESENHO
+http://142.44.137.22:8080/live/erica/erica/834.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CINEMAX HD
+http://142.44.137.22:8080/live/erica/erica/1038.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CINEMAX SD
+http://142.44.137.22:8080/live/erica/erica/1037.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",CNN INTERNACIONAL SD
+http://142.44.137.22:8080/live/erica/erica/1036.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMBATE FHD
+http://142.44.137.22:8080/live/erica/erica/1035.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMBATE FULL HD
+http://142.44.137.22:8080/live/erica/erica/6321.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMBATE HD
+http://142.44.137.22:8080/live/erica/erica/1034.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMBATE SD
+http://142.44.137.22:8080/live/erica/erica/1033.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMEDY CENTRAL HD
+http://142.44.137.22:8080/live/erica/erica/1032.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",COMEDY CENTRAL SD
+http://142.44.137.22:8080/live/erica/erica/1031.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY CHANNEL HD
+http://142.44.137.22:8080/live/erica/erica/1030.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY CHANNEL SD
+http://142.44.137.22:8080/live/erica/erica/824.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY CIVILIZATION FULL HD
+http://142.44.137.22:8080/live/erica/erica/6335.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY CIVILIZATION HD
+http://142.44.137.22:8080/live/erica/erica/1029.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY HOME & HEALTH HD
+http://142.44.137.22:8080/live/erica/erica/1028.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY HOME & HEALTH SD
+http://142.44.137.22:8080/live/erica/erica/823.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY KIDS HD
+http://142.44.137.22:8080/live/erica/erica/1027.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY KIDS SD
+http://142.44.137.22:8080/live/erica/erica/1026.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY SCIENCE FULL HD
+http://142.44.137.22:8080/live/erica/erica/6336.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY SCIENCE HD
+http://142.44.137.22:8080/live/erica/erica/1025.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY THEATER HD
+http://142.44.137.22:8080/live/erica/erica/1024.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY THEATER SD
+http://142.44.137.22:8080/live/erica/erica/822.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY TURBO HD
+http://142.44.137.22:8080/live/erica/erica/1023.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY TURBO SD
+http://142.44.137.22:8080/live/erica/erica/821.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISCOVERY WORLD  HD
+http://142.44.137.22:8080/live/erica/erica/1022.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISNEY CHANNEL HD
+http://142.44.137.22:8080/live/erica/erica/1021.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISNEY JUNIOR SD
+http://142.44.137.22:8080/live/erica/erica/1020.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DISNEY XD SD
+http://142.44.137.22:8080/live/erica/erica/1019.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DRAGON BALL
+http://142.44.137.22:8080/live/erica/erica/1018.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",DRAGON BALL SUPER
+http://142.44.137.22:8080/live/erica/erica/1017.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Dois Homens e Meio
+http://142.44.137.22:8080/live/erica/erica/1016.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",E! HD
+http://142.44.137.22:8080/live/erica/erica/1015.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",E! SD
+http://142.44.137.22:8080/live/erica/erica/1014.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EI MAXX 2 HD
+http://142.44.137.22:8080/live/erica/erica/1013.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EI MAXX 2 SD
+http://142.44.137.22:8080/live/erica/erica/1012.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EI MAXX HD
+http://142.44.137.22:8080/live/erica/erica/1011.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EI MAXX SD
+http://142.44.137.22:8080/live/erica/erica/1010.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EPTV CAMPINAS HD
+http://142.44.137.22:8080/live/erica/erica/1009.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN
+http://142.44.137.22:8080/live/erica/erica/5288.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN BRASIL HD
+http://142.44.137.22:8080/live/erica/erica/1007.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN BRASIL SD
+http://142.44.137.22:8080/live/erica/erica/1006.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN Brasil
+http://142.44.137.22:8080/live/erica/erica/5287.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN FHD
+http://142.44.137.22:8080/live/erica/erica/1005.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN   HD
+http://142.44.137.22:8080/live/erica/erica/1008.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN   SD
+http://142.44.137.22:8080/live/erica/erica/820.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPN SD ALTERNATIVO
+http://142.44.137.22:8080/live/erica/erica/819.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPORTE INTERATIVO 2 FULL HD
+http://142.44.137.22:8080/live/erica/erica/6323.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",ESPORTE INTERATIVO FULL HD
+http://142.44.137.22:8080/live/erica/erica/6322.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",EUROSPORT
+http://142.44.137.22:8080/live/erica/erica/1004.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Esporte Interativo
+http://142.44.137.22:8080/live/erica/erica/5286.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FISH TV SD
+http://142.44.137.22:8080/live/erica/erica/1003.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOOD NETWORK HD
+http://142.44.137.22:8080/live/erica/erica/1002.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOOD NETWORK SD
+http://142.44.137.22:8080/live/erica/erica/818.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX FULL HD
+http://142.44.137.22:8080/live/erica/erica/6324.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX HD
+http://142.44.137.22:8080/live/erica/erica/1001.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX LIFE HD
+http://142.44.137.22:8080/live/erica/erica/1000.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX LIFE  SD
+http://142.44.137.22:8080/live/erica/erica/816.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX PREMIUM 1 HD
+http://142.44.137.22:8080/live/erica/erica/999.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX PREMIUM 2 HD
+http://142.44.137.22:8080/live/erica/erica/998.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SD
+http://142.44.137.22:8080/live/erica/erica/817.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX  SD
+http://142.44.137.22:8080/live/erica/erica/997.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS 2 FULL HD
+http://142.44.137.22:8080/live/erica/erica/6320.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS 2 HD
+http://142.44.137.22:8080/live/erica/erica/996.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS 2 SD
+http://142.44.137.22:8080/live/erica/erica/995.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS FULL HD
+http://142.44.137.22:8080/live/erica/erica/6319.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS HD
+http://142.44.137.22:8080/live/erica/erica/994.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FOX SPORTS SD
+http://142.44.137.22:8080/live/erica/erica/993.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FUTURA
+http://142.44.137.22:8080/live/erica/erica/992.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FX HD
+http://142.44.137.22:8080/live/erica/erica/991.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",FX SD
+http://142.44.137.22:8080/live/erica/erica/990.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GALINHA PINTADINHA 24 HORAS
+http://142.44.137.22:8080/live/erica/erica/6313.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GAZETA SP HD
+http://142.44.137.22:8080/live/erica/erica/989.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO BRASILIA HD
+http://142.44.137.22:8080/live/erica/erica/988.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO BRASILIA SD
+http://142.44.137.22:8080/live/erica/erica/987.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO INTERNACIONAL FULL HD
+http://142.44.137.22:8080/live/erica/erica/986.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO INTERNACIONAL  SD
+http://142.44.137.22:8080/live/erica/erica/985.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO MINAS HD
+http://142.44.137.22:8080/live/erica/erica/984.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NEWS FULL HD
+http://142.44.137.22:8080/live/erica/erica/6327.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NEWS HD
+http://142.44.137.22:8080/live/erica/erica/983.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NEWS SD
+http://142.44.137.22:8080/live/erica/erica/815.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NORDESTE
+http://142.44.137.22:8080/live/erica/erica/811.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NORDESTE HD
+http://142.44.137.22:8080/live/erica/erica/982.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO NORDESTE SD ALT
+http://142.44.137.22:8080/live/erica/erica/782.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO PARANA  HD
+http://142.44.137.22:8080/live/erica/erica/981.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO PORTO ALEGRE
+http://142.44.137.22:8080/live/erica/erica/5289.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO PORTUGAL SD
+http://142.44.137.22:8080/live/erica/erica/980.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO RJ
+http://142.44.137.22:8080/live/erica/erica/5293.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO RJ HD
+http://142.44.137.22:8080/live/erica/erica/979.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO RJ SD
+http://142.44.137.22:8080/live/erica/erica/978.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO RPC
+http://142.44.137.22:8080/live/erica/erica/5291.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO SP
+http://142.44.137.22:8080/live/erica/erica/5292.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO SP HD
+http://142.44.137.22:8080/live/erica/erica/977.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBO SP SD
+http://142.44.137.22:8080/live/erica/erica/976.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBOSAT HD
+http://142.44.137.22:8080/live/erica/erica/975.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOBOSAT SD
+http://142.44.137.22:8080/live/erica/erica/813.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOOB  HD
+http://142.44.137.22:8080/live/erica/erica/974.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GLOOB  SD
+http://142.44.137.22:8080/live/erica/erica/812.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GNT HD
+http://142.44.137.22:8080/live/erica/erica/973.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",GNT SD
+http://142.44.137.22:8080/live/erica/erica/814.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Globo Brasilia
+http://142.44.137.22:8080/live/erica/erica/5294.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Globo EPTV Campinas
+http://142.44.137.22:8080/live/erica/erica/5290.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Gr6 Explode FM
+http://142.44.137.22:8080/live/erica/erica/6032.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",H 2 SD
+http://142.44.137.22:8080/live/erica/erica/810.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",H2 HD
+http://142.44.137.22:8080/live/erica/erica/972.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO 2 HD
+http://142.44.137.22:8080/live/erica/erica/971.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO 2 SD
+http://142.44.137.22:8080/live/erica/erica/970.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO FAMILY HD
+http://142.44.137.22:8080/live/erica/erica/969.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO FAMILY  SD
+http://142.44.137.22:8080/live/erica/erica/809.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO HD
+http://142.44.137.22:8080/live/erica/erica/968.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS E SD
+http://142.44.137.22:8080/live/erica/erica/967.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS HD
+http://142.44.137.22:8080/live/erica/erica/966.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS PANREGIONAL SD
+http://142.44.137.22:8080/live/erica/erica/965.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS SD
+http://142.44.137.22:8080/live/erica/erica/964.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO PLUS  SD
+http://142.44.137.22:8080/live/erica/erica/808.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO SD
+http://142.44.137.22:8080/live/erica/erica/963.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO SIGNATURE HD
+http://142.44.137.22:8080/live/erica/erica/962.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO SIGNATURE SD
+http://142.44.137.22:8080/live/erica/erica/961.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO SIGNATURE  SD
+http://142.44.137.22:8080/live/erica/erica/807.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HBO2  SD
+http://142.44.137.22:8080/live/erica/erica/806.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HISTORY CHANNEL SD
+http://142.44.137.22:8080/live/erica/erica/960.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",HISTORY FULL HD
+http://142.44.137.22:8080/live/erica/erica/6325.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",I-SAT SD
+http://142.44.137.22:8080/live/erica/erica/959.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",INVESTIGATION DISCOVERY HD
+http://142.44.137.22:8080/live/erica/erica/958.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",INVESTIGATION DISCOVERY SD
+http://142.44.137.22:8080/live/erica/erica/805.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",LIFETIME HD
+http://142.44.137.22:8080/live/erica/erica/957.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX HD
+http://142.44.137.22:8080/live/erica/erica/956.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX PRIME E SD
+http://142.44.137.22:8080/live/erica/erica/955.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX PRIME HD
+http://142.44.137.22:8080/live/erica/erica/954.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX PRIME SD
+http://142.44.137.22:8080/live/erica/erica/803.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX SD
+http://142.44.137.22:8080/live/erica/erica/802.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX UP HD
+http://142.44.137.22:8080/live/erica/erica/953.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MAX UP SD
+http://142.44.137.22:8080/live/erica/erica/801.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MEGAPIX FULL HD
+http://142.44.137.22:8080/live/erica/erica/6334.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MEGAPIX HD
+http://142.44.137.22:8080/live/erica/erica/952.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MEGAPIX SD
+http://142.44.137.22:8080/live/erica/erica/800.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MTV DANCE
+http://142.44.137.22:8080/live/erica/erica/951.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MTV HD
+http://142.44.137.22:8080/live/erica/erica/950.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MTV PORTUGAL
+http://142.44.137.22:8080/live/erica/erica/949.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MTV SD
+http://142.44.137.22:8080/live/erica/erica/804.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MULTISHOW HD
+http://142.44.137.22:8080/live/erica/erica/948.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MULTISHOW SD
+http://142.44.137.22:8080/live/erica/erica/947.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",MUSIC BOX BRASIL HD
+http://142.44.137.22:8080/live/erica/erica/946.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NARUTO 24 HORAS
+http://142.44.137.22:8080/live/erica/erica/6312.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NAT GEO KIDS
+http://142.44.137.22:8080/live/erica/erica/944.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NAT GEO KIDS HD
+http://142.44.137.22:8080/live/erica/erica/945.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NAT GEO SD
+http://142.44.137.22:8080/live/erica/erica/797.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NATGEO WILD HD
+http://142.44.137.22:8080/live/erica/erica/943.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NATGEO WILD SD
+http://142.44.137.22:8080/live/erica/erica/799.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NHK SD
+http://142.44.137.22:8080/live/erica/erica/942.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NICK JR SD
+http://142.44.137.22:8080/live/erica/erica/941.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NICKELODEON HD
+http://142.44.137.22:8080/live/erica/erica/940.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",NICKELODEON SD
+http://142.44.137.22:8080/live/erica/erica/939.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",O MASCARA 24HRS
+http://142.44.137.22:8080/live/erica/erica/938.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",OFF HD
+http://142.44.137.22:8080/live/erica/erica/937.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",OFF SD
+http://142.44.137.22:8080/live/erica/erica/796.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",OS SIMPSONS 24HRS
+http://142.44.137.22:8080/live/erica/erica/936.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PARAMOUNT CHANNEL HD
+http://142.44.137.22:8080/live/erica/erica/935.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PARAMOUNT CHANNEL SD
+http://142.44.137.22:8080/live/erica/erica/795.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PICA PAU
+http://142.44.137.22:8080/live/erica/erica/934.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PLAY TV SD
+http://142.44.137.22:8080/live/erica/erica/933.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PLAYBOY SD
+http://142.44.137.22:8080/live/erica/erica/932.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIER CLUBES SD
+http://142.44.137.22:8080/live/erica/erica/773.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 2 HD
+http://142.44.137.22:8080/live/erica/erica/928.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 2 SD
+http://142.44.137.22:8080/live/erica/erica/771.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 2 SD ALT
+http://142.44.137.22:8080/live/erica/erica/5301.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 3 HD
+http://142.44.137.22:8080/live/erica/erica/927.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 3 SD
+http://142.44.137.22:8080/live/erica/erica/770.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 4 HD
+http://142.44.137.22:8080/live/erica/erica/926.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 4 SD
+http://142.44.137.22:8080/live/erica/erica/769.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 4 SD ALT
+http://142.44.137.22:8080/live/erica/erica/5299.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 5 FULL HD
+http://142.44.137.22:8080/live/erica/erica/6326.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 5 HD
+http://142.44.137.22:8080/live/erica/erica/925.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 5 SD
+http://142.44.137.22:8080/live/erica/erica/768.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 5 SD ALT
+http://142.44.137.22:8080/live/erica/erica/5298.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 6 HD
+http://142.44.137.22:8080/live/erica/erica/924.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 6 SD
+http://142.44.137.22:8080/live/erica/erica/767.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 6 SD ALT
+http://142.44.137.22:8080/live/erica/erica/5297.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 7 HD
+http://142.44.137.22:8080/live/erica/erica/923.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 7 SD
+http://142.44.137.22:8080/live/erica/erica/766.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 8 HD
+http://142.44.137.22:8080/live/erica/erica/922.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 8 SD
+http://142.44.137.22:8080/live/erica/erica/765.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 9 HD
+http://142.44.137.22:8080/live/erica/erica/921.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE 9 SD
+http://142.44.137.22:8080/live/erica/erica/764.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES FHD
+http://142.44.137.22:8080/live/erica/erica/929.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES FULL HD
+http://142.44.137.22:8080/live/erica/erica/6315.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES HD
+http://142.44.137.22:8080/live/erica/erica/930.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES HD ALT
+http://142.44.137.22:8080/live/erica/erica/772.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PREMIERE CLUBES SD
+http://142.44.137.22:8080/live/erica/erica/931.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",PRIME BOX BRASIL SD
+http://142.44.137.22:8080/live/erica/erica/920.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Premiere 3 SD ALT
+http://142.44.137.22:8080/live/erica/erica/5300.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Premiere 7 SD ALT
+http://142.44.137.22:8080/live/erica/erica/5296.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Premiere Clubes
+http://142.44.137.22:8080/live/erica/erica/5295.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",RBS TV PORTO ALEGRE SD
+http://142.44.137.22:8080/live/erica/erica/919.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",RBS TV SD
+http://142.44.137.22:8080/live/erica/erica/794.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",RECORD FULL HD
+http://142.44.137.22:8080/live/erica/erica/6337.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",REDE RECORD FULL HD
+http://142.44.137.22:8080/live/erica/erica/910.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SBT HD
+http://142.44.137.22:8080/live/erica/erica/905.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SBT SD
+http://142.44.137.22:8080/live/erica/erica/903.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SBT  SD ALT
+http://142.44.137.22:8080/live/erica/erica/904.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SCOOBY DOO 24 HORAS
+http://142.44.137.22:8080/live/erica/erica/6314.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SEXTREME  SD
+http://142.44.137.22:8080/live/erica/erica/902.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SEXY HOT  SD
+http://142.44.137.22:8080/live/erica/erica/901.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SEXZONE 2 HD
+http://142.44.137.22:8080/live/erica/erica/836.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SEXZONE HD
+http://142.44.137.22:8080/live/erica/erica/837.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SIC INTERNACIONAL
+http://142.44.137.22:8080/live/erica/erica/900.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPACE HD
+http://142.44.137.22:8080/live/erica/erica/899.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPACE SD
+http://142.44.137.22:8080/live/erica/erica/791.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORT TV 1 HD - PT
+http://142.44.137.22:8080/live/erica/erica/898.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORT TV 2 HD - PT
+http://142.44.137.22:8080/live/erica/erica/897.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORT TV 3 HD - PT
+http://142.44.137.22:8080/live/erica/erica/896.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORT TV 4 HD - PT
+http://142.44.137.22:8080/live/erica/erica/895.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 2 FULL HD
+http://142.44.137.22:8080/live/erica/erica/6317.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 2 HD
+http://142.44.137.22:8080/live/erica/erica/894.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 2 SD
+http://142.44.137.22:8080/live/erica/erica/893.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 3 FULL HD
+http://142.44.137.22:8080/live/erica/erica/6318.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 3 HD
+http://142.44.137.22:8080/live/erica/erica/892.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV 3 SD
+http://142.44.137.22:8080/live/erica/erica/891.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV FULL HD
+http://142.44.137.22:8080/live/erica/erica/6316.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV HD
+http://142.44.137.22:8080/live/erica/erica/890.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SPORTV SD
+http://142.44.137.22:8080/live/erica/erica/889.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",STUDIO UNIVERSAL HD
+http://142.44.137.22:8080/live/erica/erica/888.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",STUDIO UNIVERSAL SD
+http://142.44.137.22:8080/live/erica/erica/789.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SYFY HD
+http://142.44.137.22:8080/live/erica/erica/887.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SYFY SD
+http://142.44.137.22:8080/live/erica/erica/790.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",SporTV SD ALT
+http://142.44.137.22:8080/live/erica/erica/5303.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",Sportv 2 SD ALT
+http://142.44.137.22:8080/live/erica/erica/5302.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TBS SD
+http://142.44.137.22:8080/live/erica/erica/886.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TCM SD
+http://142.44.137.22:8080/live/erica/erica/785.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE ACTION FULL HD
+http://142.44.137.22:8080/live/erica/erica/6329.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE ACTION HD
+http://142.44.137.22:8080/live/erica/erica/885.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE ACTION  SD
+http://142.44.137.22:8080/live/erica/erica/884.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE CULT FULL HD
+http://142.44.137.22:8080/live/erica/erica/6331.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE CULT HD
+http://142.44.137.22:8080/live/erica/erica/883.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE CULT  SD
+http://142.44.137.22:8080/live/erica/erica/882.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE FUN FULL HD
+http://142.44.137.22:8080/live/erica/erica/6330.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE FUN HD
+http://142.44.137.22:8080/live/erica/erica/881.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE FUN SD
+http://142.44.137.22:8080/live/erica/erica/880.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PIPOCA FHD
+http://142.44.137.22:8080/live/erica/erica/879.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PIPOCA FULL HD
+http://142.44.137.22:8080/live/erica/erica/6332.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PIPOCA HD
+http://142.44.137.22:8080/live/erica/erica/788.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PIPOCA  SD
+http://142.44.137.22:8080/live/erica/erica/878.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PREMIUM FHD
+http://142.44.137.22:8080/live/erica/erica/877.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PREMIUM FULL HD
+http://142.44.137.22:8080/live/erica/erica/6328.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PREMIUM SD
+http://142.44.137.22:8080/live/erica/erica/787.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE PREMIUM  SD
+http://142.44.137.22:8080/live/erica/erica/876.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE TOUCH FULL HD
+http://142.44.137.22:8080/live/erica/erica/6333.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE TOUCH HD
+http://142.44.137.22:8080/live/erica/erica/875.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TELECINE TOUCH SD
+http://142.44.137.22:8080/live/erica/erica/874.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",THE HISTORY CHANNEL HD
+http://142.44.137.22:8080/live/erica/erica/873.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TLC HD
+http://142.44.137.22:8080/live/erica/erica/872.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TLC SD
+http://142.44.137.22:8080/live/erica/erica/786.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TNT HD
+http://142.44.137.22:8080/live/erica/erica/871.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TNT  SD
+http://142.44.137.22:8080/live/erica/erica/870.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TNT SERIES HD
+http://142.44.137.22:8080/live/erica/erica/869.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TNT SERIES  SD
+http://142.44.137.22:8080/live/erica/erica/868.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TODO MUNDO ODEIA O CHRIS
+http://142.44.137.22:8080/live/erica/erica/867.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TOONCAST SD
+http://142.44.137.22:8080/live/erica/erica/866.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TRU TV SD
+http://142.44.137.22:8080/live/erica/erica/865.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV ANHANGUERA FULL HD
+http://142.44.137.22:8080/live/erica/erica/864.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV APARECIDA
+http://142.44.137.22:8080/live/erica/erica/863.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV BAHIA SD
+http://142.44.137.22:8080/live/erica/erica/862.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CINE 1 HD
+http://142.44.137.22:8080/live/erica/erica/861.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CINE 2 HD
+http://142.44.137.22:8080/live/erica/erica/860.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CINE  3 HD
+http://142.44.137.22:8080/live/erica/erica/859.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CINE 4 HD
+http://142.44.137.22:8080/live/erica/erica/858.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CULTURA
+http://142.44.137.22:8080/live/erica/erica/857.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV CULTURA SD
+http://142.44.137.22:8080/live/erica/erica/781.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV GAZETA ES HD
+http://142.44.137.22:8080/live/erica/erica/856.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV GLOBO RIO DE JANEIRO SD
+http://142.44.137.22:8080/live/erica/erica/780.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV GLOBO SAO PAULO SD
+http://142.44.137.22:8080/live/erica/erica/779.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV LIBERAL BELEM SD
+http://142.44.137.22:8080/live/erica/erica/855.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV MIRAMAR SD
+http://142.44.137.22:8080/live/erica/erica/783.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV NOVO TEMPO SD
+http://142.44.137.22:8080/live/erica/erica/784.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV RA TIM BUM SD
+http://142.44.137.22:8080/live/erica/erica/854.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV TEM BAURU
+http://142.44.137.22:8080/live/erica/erica/853.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV TEM BAURU SD
+http://142.44.137.22:8080/live/erica/erica/778.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",TV TEM SOROCABA SD
+http://142.44.137.22:8080/live/erica/erica/852.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",UNIVERSAL CHANNEL HD
+http://142.44.137.22:8080/live/erica/erica/851.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",UNIVERSAL CHANNEL  SD
+http://142.44.137.22:8080/live/erica/erica/777.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VENUS SD
+http://142.44.137.22:8080/live/erica/erica/850.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VH1 MEGA HITS SD
+http://142.44.137.22:8080/live/erica/erica/848.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VH1 MEGAHITS HD
+http://142.44.137.22:8080/live/erica/erica/849.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VIVA HD
+http://142.44.137.22:8080/live/erica/erica/847.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",VIVA SD
+http://142.44.137.22:8080/live/erica/erica/775.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",WARNER CHANNEL HD
+http://142.44.137.22:8080/live/erica/erica/846.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",WARNER CHANNEL SD
+http://142.44.137.22:8080/live/erica/erica/776.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Formiga VIP",WOOHOO
+http://142.44.137.22:8080/live/erica/erica/774.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",TCM
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/1248.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Telecine Action HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/1365.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",TV Cult HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/3485.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Telecine Pipoca HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/1363.ts
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="Categorias", TV Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Telecine Premium HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/1362.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Logotipo_da_TVE_Bahia.PNG" group-title="Categorias", TVE Bahia - TV Brasil
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",AXN HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/1418.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="RELIGIOSO", TV Evangelizar
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Band HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/1417.ts
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="RELIGIOSO", Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Band HD OP2
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/3127.ts
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="RELIGIOSO", Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?jhonlocao
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Cartoon Network HD
-http://painel.iptvmove.com:25461/live/weas2098d/eradf/2257.ts
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="RELIGIOSO", Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",BAND VIA MORENA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO", Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ValterHD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/l2Fy8cv.png" group-title="RELIGIOSO", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSO", Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="RELIGIOSO", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/aiNRaga.png" group-title="RELIGIOSO", IURD TV
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?JOSE-LISTA
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/CJC.png" group-title="RELIGIOSO", CJC
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redegospel.png" group-title="RELIGIOSO",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.smilinguido.com.br/celular/images/smilinguido.png" group-title="Categorias", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO",Futura - TVUP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvaperipe.png" group-title="REGIONAIS",TV Aperipê (SE)
+http://cdn2.comets.com.br/tvaperipe/aovivo/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/eparana.png" group-title="CANAL ABERTO",eParaná (PR)
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tv_candides.png" group-title="CANAL ABERTO", TV Candidés (MG)
+https://cdn.jmvstream.com/live/hls/lv_1980_transcoder/LV1980_S5CwH0FrG1.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camara.png" group-title="CANAL ABERTO",TV Câmara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/NBR.png" group-title="Distrito Federal",NBR (DF)
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redenew.png" group-title="CANAL ABERTO",Rede New
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="MUSICA", Radio Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="MUSICA",Virgin TV
+http://fms.105.net:1935/live/virgin2%20/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/AJ7bxR6dq6/B041Wsxo9yZayY64.png" group-title="CANAL ABERTO",SescTV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.portalcultura.com.br/sites/default/files/culturadigital570_333.png" group-title="CANAL ABERTO",Rede Cultura do Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="Paraná",TV Transamérica (PR)
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/central.png" group-title="Paraná",Central TV (PR)
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png" group-title="Goiás", FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Puc-TV.jpg" group-title="Goiás", Puc TV (GO)
+http://flash.softhost.com.br:1935/pucgoias/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TBO.png" group-title="Goiás", TBO (GO)
+http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvmar.png" group-title="Alagoas",TV Mar (AL)
+http://209.126.127.101:1935/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvmaceio.jpg" group-title="Alagoas",TV Maceió (AL)
+https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvriolargo.png" group-title="Alagoas",TV Rio Largo (AL)
+http://stmv4.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvacaradabhia.png" group-title="Bahia",TV A Cara da Bahia
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/rbcsalvador.png" group-title="Bahia",RBC Salvador
+http://stmv1.srvstm.com/alexandre3116/alexandre3116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/governodabahia.png" group-title="Bahia", TV Governo da Bahia
+http://streaming42.sitehosting.com.br:1935/xcfilmes/smil:xcfilmes.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvjsid.png" group-title="Bahia", TV Sjid (BA)
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TV_Assembleia_Ceará.png" group-title="Ceará", TV Assembléia (CE)
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvverdevale.png" group-title="Ceará", TV Verde Vale (CE)
+ttps://ssh101.com/m3u8/dyn/13verdevalelive13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvacarati.jpg" group-title="Ceará", Tv Aracati (CE)
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/allsports.png" group-title="Distrito Federal",All Sports (DF)
+https://5a0c3936c25c8.streamlock.net:1443/allsportstv/allsportstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvnbrasil.png" group-title="Distrito Federal", TVN Brasil (DF)
+http://wz6.dnip.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/radioesportesbrasilia.png" group-title="Distrito Federal", Esportes Brasília (DF)
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TVORIGEM.jpg" group-title="Distrito Federal", TV Origem (DF)
+http://stmv2.srvstm.com/jorsilei2749/jorsilei2749/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/logotvambiental1.png" group-title="Espírito Santo", TV Ambiental (ES)
+http://wse.transmissaodigital.com:1935/tvambiental/tvambiental/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvvitoria.png" group-title="Espírito Santo",TV Vitória - RecordTV (ES)
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvfeliz.png" group-title="Rio Grande do Norte", TV Feliz (RN)
+https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/agitos.png" group-title="Rio Grande do Norte", CN Agitos (RN)
+http://wsemedia.com:1935/cn01/cn01/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/viamorena.png" group-title="WEB TV",Via Morena
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes",CINE SKY
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvjapi.png" group-title="WEBTV",TV Japi
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="CANAL ABERTO",TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",A MORTE TE DÁ PARABÉNS - DUB - HD (2017)
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvnailha.png" group-title="Webtv",TV Na Ilha (filmes)
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/cinemais.jpg" group-title="CANAL ABERTO",Cine +
+https://live.sba1.com/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",Space
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/litoralsul.png" group-title="Santa Catarina",Litoral Sul (SC)
+http://cdn2.w7virtual.net:1935/live/canal20/canal20/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",NICK_JR
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TV_Alese.png" group-title="Sergipe",TV Alese (SE)
+http://digilab-live.hls.adaptive.level3.net/hls-live/digilablive-tvalese/_definst_/live/stream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",TNT Series
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvocultural.jpg" group-title="São Paulo",TV Ocultural (SP)
+https://cdn.jmvstream.com/live/hls/lv_826/LV826_q56cYjx1zN.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Band Sports HD
-http://paineliptvgold.info:25461/live/Libertino/002/608.ts
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/plenitude.png" group-title="São Paulo",TV Plenitude (SP)
+http://site.paineldecontrole.info:1935/live/smil:plenitude.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SÉRIES",FOX PREMIUM 1 HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/318.ts?LISTASGLAU
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/santacecilia.png" group-title="São Paulo",TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SÉRIES",TCM 10 HD
-http://cw.tcm10.com.br:80/low/canal10.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/gospel.jpg" group-title="WebTV",Gospel Movie TV
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",GNT HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/310.ts
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/logo-mega-tv.png" group-title="São Paulo",MegaTV (SP)
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",FOX HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/316.ts
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/horsebrasil.png" group-title="São Paulo",Horse Brasil Channel (SP)
+http://114544990.r.worldcdn.net/114544990/_definst_/horsebrasil2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SÉRIES",FOX PREMIUM 2 HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/317.ts
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvitapetinga.png" group-title="São Paulo",TV Itapetinga (SP)
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SÉRIES",FX HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/312.ts
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/04/Canalrural.png" group-title="São Paulo",Canal Rural (SP)
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SÉRIES",TNT Séries HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/276.ts
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="MEXICO",Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",TC Pipoca HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/280.ts
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/realmadrid.png" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",TC Premium HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/279.ts
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/now.png" group-title="ESPORTES", NFL Now HD
+http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",Paramount Channel
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/203.ts
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="ESPORTES", Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",TC Touch HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/278.ts
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2qv5g5i.png" grup-title"Musica",MusicTop HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",AMC HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2264.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/1music.jpg" group-title="Musica", 1Music
+http://92.249.129.152/stream/1music.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",Animal Planet HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1419.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rtl.png" group-title="Itália", RTL (Itália)
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",AXN HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1418.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="Itália", RAI Movie (Itália)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: VARIEDADES",BIS HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1415.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="KOREA",Arirang (Coreia)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: NOTICIÁRIO",Bloomberg HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1211.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cbn.png" group-title="RADIOS",CBN SP 90.5 FM - ESTÚDIO AO VIVO
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",Canal Sony HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1414.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: INFANTIL",Cartoon Network HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2257.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",Cinemax HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2256.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: ESPORTE",Combate HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1413.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1412.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Home & Health HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1411.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Civilization HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/3493.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: INFANTIL",Discovery Kids HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2348.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Theater HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1410.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Turbo HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1409.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: ESPORTE",ESPN+ HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1403.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: ESPORTE",EI MAXX HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2246.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: ESPORTE",EI MAXX 2 HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2247.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",FOX HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1399.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",FOX Premium 1 HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1401.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",FOX Premium 2 HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1400.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: ESPORTE",Fox Sport HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1397.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",FX HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1395.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: NOTICIÁRIO",GLOBO NEWS HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2235.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: INFANTIL",Gloob HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2661.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: VARIEDADES",GNT HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1393.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: RELIGIOSOS",Gospel Movies Television
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1422.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: RELIGIOSOS",Gospel Music Television
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1423.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",H2 HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1392.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",HBO HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1389.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",HBO 2 HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1391.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",HBO Family HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1390.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",HBO Plus HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1388.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",HBO Signature HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1387.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: VARIEDADES",HIT TV HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1809.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",History Channel HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1386.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",ID - Investigação Discovery HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1385.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: VARIEDADES",Lifetime HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2662.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",MAX Prime e
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1294.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",Megapix HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1384.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",History Channel HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1386.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",MAX UP
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1293.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: FILMES/SERIES",Paramount HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1379.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: ESPORTE",Premiere Clubes HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1378.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: ESPORTE",Premiere 2 HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1377.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: VARIEDADES",MTV HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/2357.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: VARIEDADES",Multishow HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1383.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: INFANTIL",Nick Jr
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1284.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS: VARIEDADES",OFF HD
-http://painel.iptvmove.com:25461/live/Claufrazao11/Claufrazao11/1380.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",SporTV 3 HD
-http://emersonlista.890m.com/live/teste/teste/152.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",Sport TV HD
-http://emersonlista.890m.com/live/teste/teste/154.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Telecine",Telecine Fun HD
-http://emersonlista.890m.com/live/teste/teste/182.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Telecine",TC Touch HD
-http://emersonlista.890m.com/live/teste/teste/185.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Universal Channel HD
-http://emersonlista.890m.com/live/teste/teste/310.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TNT HD
-http://emersonlista.890m.com/live/teste/teste/313.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Telecine",Telecine Action HD
-http://emersonlista.890m.com/live/teste/teste/181.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Telecine",Telecine Fun HD
-http://emersonlista.890m.com/live/teste/teste/182.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Telecine",Telecine Action HD
-http://emersonlista.890m.com/live/teste/teste/181.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Telecine",TC Touch HD
-http://emersonlista.890m.com/live/teste/teste/185.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Universal Channel HD
-http://emersonlista.890m.com/live/teste/teste/310.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TNT HD
-http://emersonlista.890m.com/live/teste/teste/313.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Telecine",TC Cult HD
-http://emersonlista.890m.com/live/teste/teste/186.m3u8?token=aqDg9c1800s33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Esporte Interativo 2 HD
-http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",Telecine Pipoca
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/176.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",FOX HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/316.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",Universal Channels HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/275.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",TNT HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/277.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SÉRIES",TNT Séries HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/276.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",TC Premium HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/279.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",TC Pipoca HD
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/280.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Telecine Pipoca
-http://iptvip.com:25461/live/RI7bR4CJ2q/fr8TidCdzW/176.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",BANDA MAX
-http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",Space
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedades e Musicas",BBB 18 HD
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/14495.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Series",FOX HD
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1047.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Series",HBO 2 HD
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1017.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="RADIOS",FM O DIA 100.5 - ESTÚDIO AO VIVO
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
