@@ -3,7 +3,9 @@
 ################################################## CANAIS HD
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="FILMES / SERIES", HBO HD#
-http://pxstream.tv/4eb08ecb-eb9f-4ddb-b537-c6a13c84d384
+
+rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+
 
 
 ################################################################################# Filmes e Series
